@@ -189,7 +189,7 @@ The project is not a single-purpose application, but a showcase of features comm
 ![Users](./screenshots/UserTableWithSearchAndFilter.png)
 
 ### File Upload
-![Upload](./screenshots/uploadFile.png)
+![Upload](./screenshots/UploadFile.png)
 
 ### Products
 ![Products](./screenshots/Products.png)
@@ -205,7 +205,7 @@ The project is not a single-purpose application, but a showcase of features comm
 ![Register](./screenshots/Register.png)
 
 ## Live Demo
-  Coming soon...
+  https://frontend-tasks-alpha.vercel.app/
 
 ---
 
