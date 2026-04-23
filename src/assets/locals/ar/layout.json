@@ -1,0 +1,89 @@
+{
+  "sidebar": {
+    "home": "الرئيسية",
+    "profile": "ملفي الشخصي",
+    "dashboard": "لوحة التحكم",
+    "logout": "تسجيل الخروج",
+    "uploadFile":"نحميل ملفات",
+     "posts": "المنشورات",
+     "features": "المميزات",
+     "users":"المستخدمين",
+  "pricing": "الأسعار",
+  "resources": "الموارد",
+  "products": "المنتجات",
+    "usertable" :"جدول المستخدمين"
+  },
+  "navbar": {
+    "title": "تطبيقي",
+    "darkMode": "الوضع الداكن",
+    "lightMode": "الوضع الفاتح"
+  },
+   "footer": {
+    "logo": "شورتلي",
+
+    "features": {
+      "title": "المميزات",
+      "pricing": "الأسعار",
+      "linkShortening": "اختصار الروابط",
+      "brandedLinks": "روابط مخصصة",
+      "analytics": "تحليلات"
+    },
+
+    "resources": {
+      "title": "المصادر",
+      "blog": "المدونة",
+      "developers": "المطورون",
+      "support": "الدعم"
+    },
+
+    "company": {
+      "title": "الشركة",
+      "about": "من نحن",
+      "team": "فريقنا",
+      "careers": "الوظائف",
+      "contact": "تواصل معنا"
+    },
+    "social": {
+  "facebook": "فيسبوك",
+  "twitter": "تويتر",
+  "pinterest": "بينتريست",
+  "instagram": "انستجرام"
+}
+  },
+  "login":{
+  "welcomeBack": "مرحباً بعودتك",
+  "loginInfo": "سجل الدخول لمتابعة حسابك",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "role": "الدور",
+  "user": "مستخدم",
+  "admin": "مشرف",
+  "login": "تسجيل الدخول",
+  "loggingIn": "جاري تسجيل الدخول...",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "register": "سجل الآن",
+  "emailError": "يجب أن يكون البريد الإلكتروني @gmail.com صالح",
+  "passwordRequired": "كلمة المرور مطلوبة",
+  "passwordLength": "يجب أن تكون كلمة المرور 8 أحرف على الأقل",
+  "loginSuccess": "تم تسجيل الدخول بنجاح!"
+},
+"register": {
+    "title": "إنشاء حساب",
+    "subtitle": "من فضلك أدخل البيانات لإنشاء حساب",
+    "name": "الاسم بالكامل",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "register": "تسجيل",
+    "registering": "جاري إنشاء الحساب...",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "login": "تسجيل الدخول",
+
+    "nameRequired": "الاسم مطلوب",
+    "emailError": "من فضلك أدخل بريد Gmail صحيح",
+    "passwordRequired": "كلمة المرور مطلوبة",
+    "passwordLength": "كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+    "registerSuccess": "تم إنشاء الحساب بنجاح"
+  }
+
+
+}

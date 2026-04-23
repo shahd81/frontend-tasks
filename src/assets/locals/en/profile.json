@@ -1,0 +1,17 @@
+{
+  "title": "My Profile",
+  "personalInfo": "Personal Information",
+  "addressInfo": "Address Information",
+  "edit": "Edit",
+  "save": "Save",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "dob": "Date of Birth",
+  "email": "Email",
+  "phone": "Phone",
+  "role": "User Role",
+  "country": "Country",
+  "city": "City",
+  "postalCode": "Postal Code",
+  "location": "Location"
+}

@@ -1,0 +1,73 @@
+{
+  "stats": {
+    "card1": { "title": "Revenue Today" },
+    "card2": { "title": "Revenue Total" },
+    "card3": { "title": "Closed Deals" },
+    "statistics": "Statistics",
+    "total": "Total",
+    "frm": "From Last Month"
+  },
+  "GaugeChart": {
+    "title": "Estimated Revenue",
+    "goal": "June Goal",
+    "data": {
+      "name": "Marketing",
+      "name2": "Sales"
+    }
+  },
+  "recentOrders": "Recent Orders",
+  "upcomingSchedule": "Upcoming Schedule",
+  "scheduleItems": [
+    {
+      "date": "Wed, 11 Jan",
+      "time": "09:20 AM",
+      "title": "Business Analytics Press",
+      "description": "Exploring the Future of Data-Driven +6 more"
+    },
+    {
+      "date": "Fri, 15 Feb",
+      "time": "10:35 AM",
+      "title": "Business Sprint",
+      "description": "Techniques from Business Sprint +2 more"
+    },
+    {
+      "date": "Thu, 18 Mar",
+      "time": "01:15 AM",
+      "title": "Customer Review Meeting",
+      "description": "Insights from the Customer Review Meeting +8 more"
+    }
+  ],
+  "salesDonut": {
+    "title": "Sales Category",
+    "total": "Total",
+    "data": [
+      { "name": "Program", "value": 48, "products": 2040 },
+      { "name": "Direct Buy", "value": 33, "products": 1402 },
+      { "name": "Adsense", "value": 19, "products": 510 }
+    ]
+  },
+  
+  "hero": {
+    "welcome": "Welcome to MyApp",
+    "subtitle": "Experience the best way to manage your account and data.",
+    "stats": {
+      "users": "Users",
+      "revenue": "Revenue",
+      "deals": "Closed Deals"
+    },
+    "feature1": {
+      "title": "User Management",
+      "desc": "Easily manage your users and their access."
+    },
+    "feature2": {
+      "title": "Revenue Tracking",
+      "desc": "Monitor and track your income and growth."
+    },
+    "feature3": {
+      "title": "Deal Closure",
+      "desc": "Keep an eye on your deals and performance."
+    }
+  }
+
+
+}

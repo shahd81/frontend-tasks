@@ -1,0 +1,90 @@
+{
+    "sidebar":{
+      "home":"Home",
+      "profile" :"Profile",
+      "dashboard":"Dashboard",
+      "logout":"Logout",
+      "uploadFile":"Upload File",
+      "users":"Users",
+     "posts": "Posts",
+    "features": "Features",
+  "pricing": "Pricing",
+  "resources": "Resources",
+  "products": "Products",
+  "shortly":"Shortly",
+  "usertable" :"User Table"
+
+    },
+    "navbar":{
+       "title" :"My App",
+      "darkMode" : "Dark Mode",
+      "lightMode" : "Light Mode"
+    },
+    "footer": {
+    "logo": "Shortly",
+
+    "features": {
+      "title": "Features",
+      "pricing": "Pricing",
+      "linkShortening": "Link Shortening",
+      "brandedLinks": "Branded Links",
+      "analytics": "Analytics"
+    },
+
+    "resources": {
+      "title": "Resources",
+      "blog": "Blog",
+      "developers": "Developers",
+      "support": "Support"
+    },
+
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "team": "Our Team",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "social": {
+  "facebook": "Facebook",
+  "twitter": "Twitter",
+  "pinterest": "Pinterest",
+  "instagram": "Instagram"
+}
+  },
+    "login" :{
+  "welcomeBack": "Welcome Back",
+  "loginInfo": "Login to continue to your account",
+  "email": "Email",
+  "password": "Password",
+  "role": "Role",
+  "user": "User",
+  "admin": "Admin",
+  "login": "Login",
+  "loggingIn": "Logging in...",
+  "dontHaveAccount": "Don't have an account?",
+  "register": "Register",
+  "emailError": "Email must be a valid @gmail.com address",
+  "passwordRequired": "Password is required",
+  "passwordLength": "Password must be at least 8 characters",
+  "loginSuccess": "Logged in successfully!"
+},
+ "register": {
+    "title": "Create Account",
+    "subtitle": "Please fill in the details to register",
+    "name": "Full Name",
+    "email": "Email Address",
+    "password": "Password",
+    "register": "Register",
+    "registering": "Creating Account...",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+
+    "nameRequired": "Name is required",
+    "emailError": "Please enter a valid Gmail address",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password must be at least 8 characters",
+    "registerSuccess": "Account created successfully"
+  }
+  
+}

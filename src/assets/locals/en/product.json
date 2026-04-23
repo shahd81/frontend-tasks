@@ -1,0 +1,50 @@
+{
+  "product": "Products",
+  "addToCard": "Add To Cart",
+  "posts": "Posts",
+  "visitWebsite": "Visit Website",
+  "users": "Users List", 
+  "user": "User",
+
+  "heroTitle1": "More than just",
+  "heroTitle2": "shorter links",
+  "heroDesc1": "Build your brand’s recognition and get detailed",
+  "heroDesc2": "insights on how your links are performing.",
+  "getStarted": "Get Started",
+
+  "advancedTitle": "Advanced Statistics",
+  "advancedDesc": "Track how your links are performing across the web with our advanced statistics dashboard.",
+
+  "brandRecognition": "Brand Recognition",
+  "brandRecognitionDesc": "Boost your brand recognition with each click. Generic links don’t mean a thing. Branded links help instil confidence in your content.",
+
+  "detailedRecords": "Detailed Records",
+  "detailedRecordsDesc": "Gain insights into who is clicking your links. Knowing when and where people engage with your content helps inform better decisions.",
+
+  "fullyCustomizable": "Fully Customizable",
+  "fullyCustomizableDesc": "Improve brand awareness and content discoverability through customizable links, supercharging audience engagement.",
+
+  "shortenPlaceholder": "Shorten a link here...",
+  "shorten": "Shorten it!",
+  "shortened": "Shortened!",
+  "copy": "Copy",
+  "copied": "Copied!",
+  "boostLinksToday": "Boost your links today",
+  "seeMore": "See More",
+  "seeLess": "See Less",
+  "noMoreProducts":"No data found",
+    "features": "Features",
+  "pricing": "Pricing",
+  "resources": "Resources",
+  "products": "Products",
+  "login": "Login",
+  "signup": "Sign Up",
+    "home":"Home",
+      "profile" :"Profile",
+      "dashboard":"Dashboard",
+      "logout":"Logout",
+      "uploadFile":"Upload File",
+  "shortly":"Shortly",
+  "previous":"Previous",
+  "next":"Next"
+}
